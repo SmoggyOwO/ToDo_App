@@ -86,7 +86,7 @@ fun TaskComponent(task: Task) {
                             fontFamily = FontFamily(Font(R.font.nunito_regular)),
                             modifier = Modifier
                                 .padding(start = 12.dp),
-                            color = Color.Gray
+                            color = Color.Black
                         )
                     }
 
