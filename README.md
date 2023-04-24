@@ -1,4 +1,5 @@
-
+<div> <img src="Assets/Screenshot_20230423_213422.png" height=666px width=300px > </div>
+<div> <img src="Assets/Screenshot_20230423_213422.png" height=666px width=300px > </div>
 ---
 
 # ToDo App
@@ -14,7 +15,7 @@ This is a simple Todo app built with Kotlin and Jetpack Compose.
 
 ## Requirements
 
-- Android Studio Flamingo (2020.3.1) or later
+- Android Studio Flamingo (2022.2.1) or later
 - Android device running Android 7.0 (Nougat) or later
 
 ## Installation
