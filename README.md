@@ -1,6 +1,5 @@
 <div>
-  <img src="Assets/Screenshot_20230423_213422.png" height="666px" width="300px">
-  <img src="Assets/Screenshot_20230423_213422.png" height="666px" width="300px">
+  <img src="Assets/Screenshot_2023-04-24-21-36-00-093_com.example.todo_app.jpg" height="666px" width="300px">
 </div>
 
 ---
