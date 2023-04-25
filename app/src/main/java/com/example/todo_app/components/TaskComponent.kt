@@ -77,7 +77,8 @@ fun TaskComponent(task: Task) {
                             .padding(
                                 top = 12.dp,
                                 start = 12.dp
-                            )
+                            ),
+                        color = Color.Black
                     )
 
                     if (task.body != null) {
@@ -98,6 +99,7 @@ fun TaskComponent(task: Task) {
                                 start = 12.dp,
                                 bottom = 12.dp
                             ),
+                        color = Color.Black
                     )
 
                 }
